@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: url("../images/6031991.jpg") no-repeat center center fixed;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    background: linear-gradient(45deg, #E74C3C 0%, #F1C40F 50%, #3498DB 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+button {
+    padding: 10px;
+    font-size: 50px;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+}
+
+.botoes {
+    margin: 30px 0;
+    display: flex;
+    gap: 20px;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+button:active {
+    opacity: 0.6;
+}
+
+#pedra {
+    background-color: #a200ff;
+}
+
+#papel {
+    background-color: #9eea1a;
+}
+
+#tesoura {
+    background-color: #7dbeed;
+}
+
+p {
+    font-weight: bold;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.pontuacao-jogador span {
+    color: rgb(53, 53, 232);
+}
+
+.pontuacao-ia span {
+    color: red;
+}
