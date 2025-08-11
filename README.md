@@ -2,6 +2,8 @@
 
 Um jogo clássico de Pedra, Papel e Tesoura desenvolvido em JavaScript.
 
+![jokenpo](https://github.com/user-attachments/assets/21b4c94a-561c-4451-9cdb-1f71e6314e44)
+
 ## 📝 Descrição
 
 Jogue o tradicional Pedra, Papel e Tesoura contra a IA! O jogo mantém a pontuação de ambos os jogadores e exibe o resultado de cada rodada.
