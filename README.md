@@ -60,6 +60,6 @@ Ou simplesmente faça o download dos arquivos e abra o `index.html` diretamente.
 
 **José Alberto**
 - GitHub: [josealbertodeev](https://github.com/josealbertodeev)
-- LinkedIn: [José Alberto B Farias](https://www.linkedin.com/in/josé-alberto-b-farias)
+- LinkedIn: [José Alberto B Farias](https://www.linkedin.com/in/joséalberto)
 - Acesse o site do projeto 👉 [aqui](https://11-projeto-jokenpo.vercel.app)
 
